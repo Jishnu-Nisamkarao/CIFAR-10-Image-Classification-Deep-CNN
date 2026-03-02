@@ -71,3 +71,14 @@ achieving over 75% accuracy in 10 epochs through 5 batches.
 
 # 7. Prediction
 <img src="./prediction.PNG" alt="Drawing"/>
+
+📚 Acknowledgements
+
+CIFAR-10 Dataset
+
+Udacity Deep Learning Nanodegree (inspiration and base structure)
+
+👤 Author
+
+Jishnu Nisamkarao
+GitHub: https://github.com/Jishnu-Nisamkarao
